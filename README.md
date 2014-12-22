@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The diuell of the vault. Or, The vnmasking of murther in a briefe declaration of the Cacolicke-compl
+
+1. To the Reader
+
 #####Body#####
-The diuell of the vault. Or, The vnmasking of murther in a briefe declaration of the Cacolicke-compl
+
+1. The vnmasking of Murther: OR, A briefe declaration of the Cacolike-intended Treason, lately discouered.
+
 **Types of content**
 
   * There are 184 **verse** lines!
